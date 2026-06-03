@@ -97,3 +97,6 @@ Do not commit copyrighted PDFs, private Zotero records, raw attachments, persona
 
 This template includes `.gitignore` rules to avoid uploading common private files, but you should still review your repository before publishing.
 
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.
