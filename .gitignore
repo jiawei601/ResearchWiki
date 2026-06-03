@@ -1,0 +1,31 @@
+# Raw and private research materials
+raw/papers/**
+raw/assets/**
+raw/notes/**
+raw/zotero_imports/**
+!raw/**/.gitkeep
+!raw/**/README.md
+
+# Copyrighted or private document files
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.ris
+*.bib
+*.csv
+
+# Environment and secrets
+.env
+.env.*
+
+# Obsidian local state
+.obsidian/workspace*
+.obsidian/workspace-mobile*
+
+# OS and cache files
+.DS_Store
+Thumbs.db
+**/__pycache__/
+*.pyc
+
